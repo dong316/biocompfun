@@ -1,6 +1,7 @@
 """=================================================================================================
 Homework 5
 
+
 Loops are critical to programs. The objective of the current homework is to
 produce the following output using different loops:
 *****
